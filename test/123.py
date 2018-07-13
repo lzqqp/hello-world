@@ -19,6 +19,6 @@ class   Mytimer():
         self.lasted=[]
         self.prompt='总共运行了'
         for index in range(6):
-            self.lasted.append(self.end[index]-self.begin[index])
-            self.prompt+=str(self.lasted[index])
 
+
+lizhengtets
